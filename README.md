@@ -145,16 +145,8 @@ High-level modules should not depend on low-level modules. Both should depend on
 - Utilize the `EnemySpawner` to manage enemy spawning.
 - Extend the `HighScoreSystem` to handle player scores.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Unity Documentation
-- Design Patterns in Game Development
+- https://gameprogrammingpatterns.com/contents.html
 
